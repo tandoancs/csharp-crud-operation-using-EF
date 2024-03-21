@@ -1,0 +1,15 @@
+C:\Users\0138429\source\repos\CrudOperationUsingEF\bin\Debug\CrudOperationUsingEF.exe.config
+C:\Users\0138429\source\repos\CrudOperationUsingEF\bin\Debug\CrudOperationUsingEF.exe
+C:\Users\0138429\source\repos\CrudOperationUsingEF\bin\Debug\CrudOperationUsingEF.pdb
+C:\Users\0138429\source\repos\CrudOperationUsingEF\obj\Debug\CrudOperationUsingEF.csproj.AssemblyReference.cache
+C:\Users\0138429\source\repos\CrudOperationUsingEF\obj\Debug\CrudOperationUsingEF.Properties.Resources.resources
+C:\Users\0138429\source\repos\CrudOperationUsingEF\obj\Debug\CrudOperationUsingEF.csproj.GenerateResource.cache
+C:\Users\0138429\source\repos\CrudOperationUsingEF\obj\Debug\CrudOperationUsingEF.csproj.CoreCompileInputs.cache
+C:\Users\0138429\source\repos\CrudOperationUsingEF\obj\Debug\CrudOperationUsingEF.exe
+C:\Users\0138429\source\repos\CrudOperationUsingEF\obj\Debug\CrudOperationUsingEF.pdb
+C:\Users\0138429\source\repos\CrudOperationUsingEF\bin\Debug\EntityFramework.dll
+C:\Users\0138429\source\repos\CrudOperationUsingEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\0138429\source\repos\CrudOperationUsingEF\bin\Debug\EntityFramework.xml
+C:\Users\0138429\source\repos\CrudOperationUsingEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\0138429\source\repos\CrudOperationUsingEF\obj\Debug\CrudOperationUsingEF.frmEmployee.resources
+C:\Users\0138429\source\repos\CrudOperationUsingEF\obj\Debug\CrudOperationUsingEF.csproj.CopyComplete
